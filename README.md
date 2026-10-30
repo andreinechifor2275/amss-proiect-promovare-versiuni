@@ -13,9 +13,11 @@ Nu modelăm build-ul efectiv, infrastructura, autentificarea
 sau instrumente CI/CD reale.
 
 ## Echipa
-- Andrei (lider)
-- Coleg 1
-- Coleg 2
+- Andrei 
+- Bruna
+- Alexandru
+- Narcis
+- Sergiu
 
 ## Structura
 - `01-problema/`: cerințe, ipoteze, întrebări deschise, exemple de acceptare
